@@ -98,12 +98,12 @@
 
 </div>
 
-- 🎯 **Ownership over tickets** — give me the problem, not a checklist, and I'll bring the plan
-- 🚢 **Ship, then polish** — I'd rather have something real in front of users than a perfect diagram
-- 🧩 **Deep work + async** — long focus blocks over back-to-back meetings; clear writing over live standups
-- 📖 **Readable code wins** — if the next person can't follow it, it isn't done
-- 🔥 **Comfortable in the deep end** — new stack, ambiguous spec, tight timeline? That's the fun part
-- 🌍 **Open to** collabs, freelance, and interesting full-time roles — reach out below
+- 🎯 **Ownership over tickets** : give me the problem, not a checklist, and I'll bring the plan
+- 🚢 **Ship, then polish** : I'd rather have something real in front of users than a perfect diagram
+- 🧩 **Deep work + async** : long focus blocks over back-to-back meetings; clear writing over live standups
+- 📖 **Readable code wins** : if the next person can't follow it, it isn't done
+- 🔥 **Comfortable in the deep end** : new stack, ambiguous spec, tight timeline? That's the fun part
+- 🌍 **Open to** collabs, freelance, and interesting full-time roles : reach out below
 
 <br/>
 
