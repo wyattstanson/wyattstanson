@@ -26,12 +26,12 @@
 
 </div>
 
-- 💻 **Full-stack engineer** — I go from database schema to pixel-perfect UI
-- 🤖 Deep in **AI / ML** — training models, wiring up LLMs, shipping real features
-- ⚙️ Comfortable in the **backend & systems** layer — APIs, infra, performance
-- ⚽ Off the keyboard: **football** — playing, watching, arguing about tactics
+- 💻 **Full-stack engineer** : I go from database schema to pixel-perfect UI
+- 🤖 Deep in **AI / ML** : training models, wiring up LLMs, shipping real features
+- ⚙️ Comfortable in the **backend & systems** layer : APIs, infra, performance
+- ⚽ Off the keyboard: **football** : playing, watching, arguing about tactics
 - 🎵 Perpetually soundtracked by a **music** playlist that never ends
-- 🧠 I like hard problems and clean solutions — no half-built demos
+- 🧠 I like hard problems and clean solutions : no half-built demos
 
 <br/>
 
